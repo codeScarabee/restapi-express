@@ -1,0 +1,13 @@
+{
+  "username": "samalex",
+  "age": 38,
+  "woking": false,
+  "identity": null,
+  "country": "algeria",
+  "skills": ["html", "css", "js"],
+  "address": {
+    "alger": "ipsum lorem 1",
+    "setif": "ipsum lorem 2",
+    "djelfa": { "one": "ipsum lorem 1", "two": "ipsum lorem 2" }
+  }
+}
